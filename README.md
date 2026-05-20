@@ -42,9 +42,9 @@ Predict on test data, plot actual vs. predicted prices.
 
 ## PROGRAM
 
-### Name: Syed Mohamed Raihan
+### Name: Joel John Jobinse
 
-### Register Number: 212224240167
+### Register Number: 212223240062
 
 ```python
 #Name: Joel John Jobinse
